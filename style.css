@@ -773,6 +773,8 @@ gap: 1rem;
 
         main .container .middle{
             grid-column: 1/3;
+            width: 95vw;
+
         }
 
         main .container .right{
